@@ -38,7 +38,8 @@ This project performs binary sentiment classification on the IMDB movie reviews 
 
 The following graph shows how accuracy and loss changed over training epochs:
 
-![Training Curves](assets/training_curves.png)
+![Training Curve](https://raw.githubusercontent.com/WOO-NAM-KR/IMDB_Sentimental_Analysis/main/imdb-sentiment-analysis/assets/training_curves.png)
+
 
 
 ## Sample Predictions
