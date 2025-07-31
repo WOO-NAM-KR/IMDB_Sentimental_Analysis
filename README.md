@@ -56,10 +56,12 @@ The following graph shows how accuracy and loss changed over training epochs:
 
 ## How to Run
 
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/WOO-NAM-KR/IMDB_Sentimental_Analysis.git 
    cd imdb-sentiment-analysis
+
    ```
 
 2. Install dependencies:
